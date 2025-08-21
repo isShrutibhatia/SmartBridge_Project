@@ -1,0 +1,15 @@
+The world’s food production has experienced dramatic changes over the past six decades, driven by population growth, technological advancements, regional specializations, and changing consumption patterns. However, the raw data on agricultural production, spread across multiple countries and commodities from 1961 to 2023, is often vast, complex, and difficult to interpret without advanced analytics.
+
+Stakeholders such as policymakers, researchers, and agribusiness professionals require clear insights into:
+
+Which countries and regions are the top contributors to global food production
+
+Which commodities dominate in terms of volume and growth over time
+
+How production patterns have evolved across decades
+
+Regional specializations and crop-specific dominance
+
+Without structured analysis and visualization, it is challenging to uncover these patterns and make data-driven decisions regarding food security, trade, and sustainable agricultural practices.
+
+This project addresses the problem by transforming the World Food Production dataset (1961–2023) into interactive Power BI dashboards, enabling users to explore trends, compare commodities, analyze country-level contributions, and derive actionable insights through an intuitive, visual-first approach.
